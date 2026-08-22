@@ -23,7 +23,7 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y actualmente estoy metiéndole mano a:
+Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría.
 
 ---
 
