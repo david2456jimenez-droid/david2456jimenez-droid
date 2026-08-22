@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A6C1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+David+%F0%9F%91%8B;Aprendiz+SENA+-+ADSO+%F0%9F%8E%93;Backend+%26+Frontend+Developer+%F0%9F%92%BB;Construyendo+Dulcer%C3%ADa+Digital+%F0%9F%8D%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A6C1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+David+%F0%9F%91%8B;Aprendiz+SENA+-+ADSO+%F0%9F%8E%93;Backend+%26+Frontend+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría.
+Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y sigo mejorando mis habilidades día a día.
 
 ---
 
