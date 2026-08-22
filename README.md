@@ -25,10 +25,6 @@
 
 Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y actualmente estoy metiéndole mano a:
 
-- 🍬 **Dulcería Digital** — e-commerce con animaciones frame-by-frame en canvas y efectos de desintegración en vanilla JavaScript
-- 🍔 **FastFood App** — aplicación en Blazor con carrito de compras, servicios inyectados y navegación reactiva
-- 🔐 Explorando **ciberseguridad** por mi cuenta (Kali Linux, Nmap)
-
 ---
 
 ### 🛠️ Stack y herramientas
@@ -36,14 +32,6 @@ Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interé
 | Frontend | Backend | Bases de datos | Herramientas |
 |---|---|---|---|
 | HTML, CSS, JavaScript | C# / .NET, Blazor, PHP | SQL Server, MySQL | Git, GitHub, Docker |
-
----
-
-### 📌 Proyectos destacados
-
-- **[Dulceria_Digital](https://github.com/david2456jimenez-droid/Dulceria_Digital)** — Tienda de dulces con animaciones e interacciones creativas en JS puro
-- **FastFood Blazor** — Catálogo de productos, carrito de compras y componentes reactivos
-- **Belle Croissant Lyonnais** — Sistema WinForms en capas (Form → DAO → Conexión → BD) con seguridad BCrypt
 
 ---
 
