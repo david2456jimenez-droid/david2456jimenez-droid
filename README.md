@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A6C1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+David+%F0%9F%91%8B;Aprendiz+SENA+-+ADSO+%F0%9F%8E%93;Backend+%26+Frontend+Developer+%F0%9F%92%BB;Construyendo+Dulcer%C3%ADa+Digital+%F0%9F%8D%AC" alt="Typing SVG" />
+</h1>
 
-<!--
-**david2456jimenez-droid/david2456jimenez-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA &nbsp;|&nbsp; 📍 Colombia
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+
+Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y actualmente estoy metiéndole mano a:
+
+- 🍬 **Dulcería Digital** — e-commerce con animaciones frame-by-frame en canvas y efectos de desintegración en vanilla JavaScript
+- 🍔 **FastFood App** — aplicación en Blazor con carrito de compras, servicios inyectados y navegación reactiva
+- 🔐 Explorando **ciberseguridad** por mi cuenta (Kali Linux, Nmap)
+
+---
+
+### 🛠️ Stack y herramientas
+
+| Frontend | Backend | Bases de datos | Herramientas |
+|---|---|---|---|
+| HTML, CSS, JavaScript | C# / .NET, Blazor, PHP | SQL Server, MySQL | Git, GitHub, Docker |
+
+---
+
+### 📌 Proyectos destacados
+
+- **[Dulceria_Digital](https://github.com/david2456jimenez-droid/Dulceria_Digital)** — Tienda de dulces con animaciones e interacciones creativas en JS puro
+- **FastFood Blazor** — Catálogo de productos, carrito de compras y componentes reactivos
+- **Belle Croissant Lyonnais** — Sistema WinForms en capas (Form → DAO → Conexión → BD) con seguridad BCrypt
+
+---
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=david2456jimenez-droid&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david2456jimenez-droid&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
