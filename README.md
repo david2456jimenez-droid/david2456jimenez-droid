@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA &nbsp;|&nbsp; 📍 Colombia
+  🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) &nbsp;|&nbsp; 📍 Colombia
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante de **Análisis y Desarrollo de Software** en el SENA, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y sigo mejorando mis habilidades día a día.
+Soy aprendiz de **Análisis y Desarrollo de Software**, con interés tanto en el **backend** como en el **frontend**. Me gusta aprender construyendo proyectos reales en lugar de solo teoría, y sigo mejorando mis habilidades día a día.
 
 ---
 
